@@ -15,4 +15,4 @@ public class RemovePrime {
     }
 
 
-    public static
+    public static boolem
